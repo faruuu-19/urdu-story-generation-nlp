@@ -1,0 +1,6 @@
+{
+  "vocab_size": 250,
+  "lambda1": 0.1,
+  "lambda2": 0.3,
+  "lambda3": 0.6
+}
